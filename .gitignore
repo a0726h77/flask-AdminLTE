@@ -1,0 +1,10 @@
+*.bak
+*.diff
+*.lock
+*.log
+*.orig
+*.pyc
+*.rej
+*.swp
+*_
+tmp/
